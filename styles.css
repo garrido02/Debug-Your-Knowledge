@@ -119,6 +119,7 @@
     text-transform: capitalize;
     letter-spacing: 2px;
     transition: 0.2s;
+    border-radius: 10px;
 }
 
 .text a:hover{
